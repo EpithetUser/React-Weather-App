@@ -1,6 +1,6 @@
 # Weather App
 
-This project was made using React JS and Tailwind CSS using the OpenWeatherMap API after following a tutorial by [Programming With Yash](https://www.youtube.com/channel/UCXp_6CV1PgH8wybrhgJbGYw).
+This project was made using React JS and Tailwind CSS using the OpenWeatherMap API.
 
 This web app is hosted on [Netlify](https://weather-app-with-reac7.netlify.app/).
 
